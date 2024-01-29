@@ -1,0 +1,34 @@
+.kparty{
+    font-size: 20px;
+    
+}
+.kparty h2{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.aparty{
+    font-size: 20px;
+    background-color: rgb(153, 126, 86);
+}
+.aparty h2{
+    font-weight: 500;
+    font-size: 40px;
+}
+.tparty{
+    font-size: 20px;
+    background-color: rgb(100, 66, 14);
+}
+.tparty h2{
+    font-weight: 500;
+    font-size: 40px;
+}
+.kpartypic img{
+    height: 40px;
+}
+.tpartypic img{
+    height: 40px;
+}
+.apartypic img{
+    height: 40px;
+}
