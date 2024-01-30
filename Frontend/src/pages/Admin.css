@@ -1,0 +1,76 @@
+/* Admin.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkgreen;
+  }
+  
+  /* Style for CollegeList component (adjust as needed) */
+  .college-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .college-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .college-details {
+    text-align: left;
+  }
+  
+  .college-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .college-description {
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .college-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .college-actions button {
+    background-color: #ff5252;
+    color: #fff;
+  }
+  
+  .college-actions button:hover {
+    background-color: #ff2f2f;
+  }
+  
