@@ -1,0 +1,175 @@
+
+ .FullHome{
+  
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+.hometag{
+  /* width:min-content; */
+   /* height: 200px; */
+   /* max-width: 50%;  */
+   max-height: 50%;
+   
+}
+
+.HomeContainer {
+   
+    /* border: 2px solid #d4d0d0;  */
+    font-size:larger;
+    padding: 10px;
+    text-align: center;
+  }
+.HomeContainer h2{
+    padding-right: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight:bolder;
+    color: rgb(29, 27, 28);
+    /* font-style: italic;     */
+}
+.HomeContainer p{
+    font-size: medium;
+}
+.Txt{
+  padding-top: 100px;
+  padding-left: 50px;
+  font-size:30px;
+  font-weight: bolder;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  
+  
+
+}
+.containerr{
+  display:flex;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.gifcontainer{
+    background-image: url('https://media.tenor.com/Cavw-yoW--gAAAAi/birthday-cake-happy-birthday.gif');
+    background-repeat: no-repeat;
+    padding-right: 2px;  
+}
+.videobox{
+    background-size: contain;
+    padding-left: 50px;
+} 
+.sub-container1
+  {
+    height:7cm;
+    width:10cm;
+    border-radius:20px;
+    background-color: rgba(136, 155, 185, 0.992);
+    
+    
+  }
+  .sub-container1 h1{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  .display-container
+  {
+    margin-left:2cm;
+    justify-content:flex-start;
+    display: flex;
+    padding:1cm;
+    flex-wrap: wrap;
+  }
+  .sub-container2
+  {
+    height:8cm;
+    width:7cm;
+    border-radius:20px;
+    margin-left:60px;
+    margin-top:30px;
+    padding-left: 35px;
+    /* background-mage: url('https://img.freepik.com/premium-vector/cute-baby-boy-profile-picture-kid-avatar_176411-4644.jpg'); */
+  }
+  .sub-container3
+  {
+    height:12cm;
+    width:25cm;
+    color:white;
+    border-radius:30px;
+    margin-left:60px;
+    margin-top:30px;
+    background-color: rgb(58, 15, 123);
+  }
+  .sub-container4
+  {
+    height:12cm;
+    width:25cm;
+    color:white;
+    border-radius:30px;
+    margin-top:27px;
+    margin-left:14cm;
+    background-color: rgb(58, 15, 123);
+  }
+  
+  .home-container2
+  {
+    background-color:rgb(241, 203, 222);
+    /* width:m; */
+    height:13cm;
+    align-items:center;
+    
+  }
+  .home-container2 h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:rgb(179, 186, 196);
+    font-size:40px;
+  }  
+  .su-container2{
+    height: 40px;
+  }
+  .ub-container2{
+    padding-top: 20px;
+    padding-left: 80px;
+  }
+  .su-container2{
+    padding-top: 20px;
+    padding-left: 80px;
+  }
+  .learnmore{
+    /* background-color: rgb(241, 231, 231); */
+    width: 200px;
+    padding-left: 500px;
+    font-size: 37px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+ 
+.button {
+  background-color: #addbfa; /* Green */
+  border: none;
+  font-size: 37px;
+  /* font-weight: 800; */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #5b79db;
+}
+
+.button1:hover {
+  background-color: #fc6fdd;
+  color: white;
+}
+

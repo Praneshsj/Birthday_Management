@@ -1,0 +1,23 @@
+*{
+    margin:0;
+}
+.Sidepanel{
+    padding: 0 0 40px 0;
+    overflow: hidden;
+    text-align: center;
+    float:right;
+    width:20vw;
+    background-color: goldenrod;
+    position: absolute;
+    right: 0;
+}
+.side-active{
+    visibility: hidden;
+}
+.side{
+    visibility:visible;
+    margin-right:0px;
+}
+.sidebutton{
+    width:80%
+}
