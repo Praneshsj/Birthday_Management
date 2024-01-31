@@ -1,0 +1,40 @@
+/* FoodPage.css */
+.food-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .food-category {
+    margin-top: 30px;
+  }
+  
+  .food-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .food-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 300px;
+  }
+  
+  .food-card h3 {
+    color: #e74c3c; /* Adjust the color as needed */
+  }
+  
+  .food-card p {
+    color: #555;
+  }
+  
+  /* Additional styling for category headings */
+  h1, h2 {
+    color: #3498db; /* Adjust the color as needed */
+  }
+  
