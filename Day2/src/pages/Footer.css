@@ -1,0 +1,82 @@
+/* Add this styling to your CSS file or style section */
+
+.ffull {
+  width: 100%;
+  font-size: 0.5rem;
+}
+
+.fsub {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+  background-color: #83caf3;
+  color: #fff;
+  
+}
+
+.fsub1 {
+  flex: 1;
+}
+
+.fsub2 {
+  font-size: 2.0rem;
+  margin-bottom: 0.5rem;
+}
+
+.fsub3 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.fsub4 {
+  font-size: 20px;
+}
+
+.fub5 {
+  flex: 1;
+}
+
+.fsub6 {
+  font-size: 1.5rem;
+}
+
+.fsub7 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.fsub8 {
+  display: flex;
+}
+
+.fsub9,
+.fsub10 {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.fsub11 {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.fsub12 {
+  padding: 0.5rem;
+  width: 200px;
+  border: none;
+}
+
+.fsub13 {
+  background-color: #ffd700;
+  /* padding: 0.5rem 1rem; */
+  width: 100px;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-weight: bold;
+}
+
+.fsub13:hover {
+  background-color: #ffcc00;
+}
