@@ -1,0 +1,32 @@
+/* Add this styling to your CSS file or style section */
+
+.kparty,
+.tparty,
+.aparty {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.kpartypic img,
+.tpartypic img,
+.apartypic img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+/* Adjust the color, font, spacing, etc., based on your design preferences */

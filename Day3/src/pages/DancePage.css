@@ -1,0 +1,31 @@
+/* DancePage.css */
+.dance-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dance-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .dance-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 300px;
+  }
+  
+  .dance-card h2 {
+    color: #e74c3c;
+  }
+  
+  .dance-card p {
+    color: #555;
+  }
+  
