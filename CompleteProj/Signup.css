@@ -1,0 +1,78 @@
+.signup-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 5rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  
+  .signup-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  .error-message {
+    color: #d9534f;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  
+  .signup-container label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  
+  .signup-container input {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccd0d5;
+    border-radius: 4px;
+    box-sizing: border-box; }
+  
+  
+  .signup-container button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    border-radius: 4px;
+  }
+  
+  .signup-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .signup-container input::placeholder {
+    color: #999;
+  }
+  
+  
+  @media (max-width: 768px) {
+    .signup-container {
+      margin: 1rem auto;
+      padding: 1rem;
+    }
+  
+    .signup-container button {
+      padding: 0.5rem;
+    }
+  }

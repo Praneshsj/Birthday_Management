@@ -1,0 +1,40 @@
+.addthemefull {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: antiquewhite;
+  }
+  
+  .addthemecontainer {
+    width: 500px; /* You can set the width here */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .addtheme-button button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .addtheme-button button:hover {
+    background-color: #1a381c;
+  }
